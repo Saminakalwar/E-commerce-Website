@@ -1,0 +1,10 @@
+.hero {
+    font-family: Arial, sans-serif;
+    height: 80vh; /* Adjust based on your design requirements */
+    background-image: url('heronew.webp');
+    background-repeat: no-repeat;
+    background-size: cover; /* Or use contain if you prefer */
+    background-position: center;
+    display: flex;
+    overflow: hidden; /* Ensure no overflow */
+}
